@@ -1,0 +1,1 @@
+Git is a robust version control system that allows developers to track changes to their codebase, communicate with others, and manage projects more effectively. This repository contains screenshots of basic Git commands that all developers should be familiar with.
